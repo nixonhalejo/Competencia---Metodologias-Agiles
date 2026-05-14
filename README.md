@@ -18,15 +18,6 @@ ASTERON es un sistema web de gestión de producción desarrollado para **Macrome
 
 ## 📚 Contenido del Repositorio
 
-### Guías de Formación (documentos .docx)
-
-| Sesión | Tema | Archivo |
-|--------|------|---------|
-| Sesión 1 | Introducción a las Metodologías Ágiles | `Introducción a las Metodologías Ágiles 1.docx` |
-| Sesión 2 | Gestión de Requerimientos con Historias de Usuario | `Gestión de Requerimientos con Historias de Usuario.docx` |
-| Sesión 3 | Estimación de Historias de Usuario | `Estimación de Historias de Usuario_NA.docx` |
-| Sesión 4 | Priorización de Historias de Usuario | `Priorización de Historias de Usuario.docx` |
-
 ---
 
 ### 📊 Archivos de Trabajo (Excel)
